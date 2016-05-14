@@ -1,0 +1,28 @@
+{
+  "name": "SFW",
+  "version": "1.0.0",
+  "description": "かえるとへびのタワーディフェンスゲーム",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iidzuka/SFW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iidzuka/SFW/issues"
+  },
+  "homepage": "https://github.com/iidzuka/SFW#readme",
+  "dependencies": {
+    "phina.js": "https://github.com/phi-jp/phina.js#v0.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
